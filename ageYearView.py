@@ -1,6 +1,7 @@
 print('What is your name?')
 name = input()
 
+// String formatting
 print(f'''Hi there, {name}!
 Input your age please...''')
 
